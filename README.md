@@ -59,7 +59,12 @@
 ###
 
 <p align="left">
-  Distributed Systems · Event-Driven Architecture · Database Engineering · System Design · Algorithms & Data Structures · Mathematics
+  · Distributed Systems 
+  · Event-Driven Architecture 
+  · Database Engineering 
+  · System Design 
+  · Algorithms & Data Structures 
+  · Mathematics
 </p>
 
 ###
