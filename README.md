@@ -62,6 +62,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HateLove&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HateLove&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
+
+  
 </div>
 
 ###
