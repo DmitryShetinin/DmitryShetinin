@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitry Shchetinin
-==========================================================================================================================================
+
 
 <br clear="both">
 
@@ -8,11 +7,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
  
 
-###
+<div align="center">
 
-<h1 align="center">Привет 👋 Меня зовут Дмитрий!</h1>
+### Привет 👋 Меня зовут Дмитрий!
 
-###
+<img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+</div>
 
 <div align="center">
   <a href="https://t.me/hatelove666" target="_blank">
