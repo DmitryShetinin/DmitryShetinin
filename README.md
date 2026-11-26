@@ -56,7 +56,19 @@
  
 ###
 
-<h3 align="left">🧩 LeetCode</h3>
+
+
+###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <div align="center">
   <a href="https://leetcode.com/u/Hate_Love/">
@@ -64,4 +76,11 @@
   </a>
 </div>
 
+</div>
+
 ###
+
+
+ 
+ 
+ 
