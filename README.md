@@ -6,13 +6,13 @@
 
 ###
 
-<h1 align="center">Привет 👋 Меня зовут Дмитрий Щетинин!</h1>
+<h1 align="center">Привет 👋 Меня зовут Дмитрий!</h1>
 
 ###
 
 <div align="center">
   <a href="https://t.me/hatelove666" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram" />
   </a>
 </div>
 
@@ -20,72 +20,47 @@
 
 <h3 align="left">👨‍💻 Обо мне</h3>
 
-###
-
 <p align="left">
-Я backend-разработчик, увлекаюсь проектированием программного обеспечения, распределёнными системами и фундаментальными аспектами Computer Science.
-
+Я backend-разработчик, интересуюсь проектированием программного обеспечения, распределёнными системами и фундаментальными аспектами Computer Science.
+<br><br>
 Основное направление моей работы — разработка backend-приложений на C#/.NET и Go. Мне интересно не только создавать программные системы, но и разбираться в принципах их работы: от устройства баз данных и механизмов конкурентного выполнения до архитектуры распределённых приложений.
-
+<br><br>
 Отдельное место в моих интересах занимают математика, алгоритмы и теоретическая информатика.
- <br>
-- 🔭 Работаю над backend-проектами и распределёнными системами. <br>
-- 💻 Основные языки программирования: C# и Go. <br>
-- 📚 Изучаю алгоритмы, структуры данных и высшую математику. <br> 
-- ⚡ Интересуюсь производительностью, масштабированием и архитектурой программных систем.<br>
 </p>
-
-
-
-###
-
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
-
-###
-
-
-
 
 ###
 
 <h3 align="left">🛠 Технологии</h3>
 
-###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,go,cpp,dotnet,postgres,redis,kafka,docker,kubernetes,linux,git" height="40" />
+  <img src="https://skillicons.dev/icons?i=cs,go,cpp,dotnet,postgres,redis,kafka,docker,kubernetes,linux,git" height="40" alt="Tech stack" />
 </div>
 
- 
 ###
 
+<h3 align="left">🐍 My Contributions</h3>
 
+<p align="center">
+  <img width="600" src="github-snake.svg" alt="GitHub contribution snake" />
+</p>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
+<h3 align="left">🔥 GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HateLove&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=HateLove&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 ###
-<h3 align="left">🧩 LeetCode :</h3>
+
+<h3 align="left">🧩 LeetCode</h3>
+
 <div align="center">
   <a href="https://leetcode.com/u/Hate_Love/">
     <img src="https://leetcode-stats-six.vercel.app/api?username=Hate_Love&theme=dark" alt="LeetCode Stats" />
   </a>
 </div>
 
-</div>
-
 ###
-
-
- 
- 
- 
