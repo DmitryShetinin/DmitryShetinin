@@ -17,19 +17,6 @@
   </a>
 </div>
 
-<p align="left">
-  <a href="https://t.me/hatelove666" target="_blank" rel="noreferrer">
-    <img
-      src="https://trace-logos.ru/assets/logos/pngs/apple/26/color/telegram.png"
-      width="32"
-      height="32"
-      alt="Telegram"
-      title="Telegram"
-    />
-  </a>
-</p>
-
-
 
 ###
 
