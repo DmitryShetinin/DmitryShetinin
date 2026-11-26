@@ -54,9 +54,6 @@
 </div>
 
  
-
-<h3 align="left">🔥 Моя статистика</h3>
-
 ###
 
 <h3 align="left">🧩 LeetCode</h3>
