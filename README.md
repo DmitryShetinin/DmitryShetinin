@@ -74,7 +74,7 @@
 </div>
 
 ###
-<h3 align="left">🧩 LeetCode</h3>
+<h3 align="left">🧩 LeetCode :</h3>
 <div align="center">
   <a href="https://leetcode.com/u/Hate_Love/">
     <img src="https://leetcode-stats-six.vercel.app/api?username=Hate_Love&theme=dark" alt="LeetCode Stats" />
