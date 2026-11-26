@@ -52,22 +52,7 @@
   <img src="https://skillicons.dev/icons?i=cs,go,cpp,dotnet,postgres,redis,kafka,docker,kubernetes,linux,git" height="40" />
 </div>
 
-###
-
-<h3 align="left">🧠 Области интересов</h3>
-
-###
-
-<p align="left">
-  · Distributed Systems 
-  · Event-Driven Architecture 
-  · Database Engineering 
-  · System Design 
-  · Algorithms & Data Structures 
-  · Mathematics
-</p>
-
-###
+ 
 
 <h3 align="left">🔥 Моя статистика</h3>
 
